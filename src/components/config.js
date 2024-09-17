@@ -1,0 +1,1 @@
+export const INITIAL_ROTATION = Math.PI / 3;
